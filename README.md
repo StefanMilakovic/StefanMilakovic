@@ -2,15 +2,9 @@
 
 ###
 
-<p align="left">My name is Stefan</p>
+<p align="left">🙋‍♂️ My name is Stefan.</p>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">🧑‍💻 I am a final year student at the Faculty of Electrical Engineering, specializing in Software Engineering.</p>
+<p align="left">💻 I am a final year student at the Faculty of Electrical Engineering, specializing in Software Engineering.</p>
 
 ###
 
