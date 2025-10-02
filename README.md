@@ -9,7 +9,7 @@
 ###
 ### My Skills
 
-**Backend:** Java, Spring  
-**Frontend:** Angular, TypeScript, JavaScript, HTML, CSS  
-**Database:** MySQL  
-**Other Languages:** C#, C++, C
+- **Backend:** Java, Spring  
+- **Frontend:** Angular, TypeScript, JavaScript, HTML, CSS  
+- **Database:** MySQL  
+- **Other Languages:** C#, C++, C
